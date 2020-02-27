@@ -1,0 +1,134 @@
+64
+Villanova
+Mount_St_Mary's
+Virginia_Tech
+Wisconsin
+Virginia
+UNC_Wilmington
+East_Tennessee_State
+Florida
+Baylor
+New_Mexico_State
+Southern_Cal
+SMU
+South_Carolina
+Marquette
+Troy
+Duke
+Gonzaga
+South_Dakota_State
+Vanderbilt
+Northwestern
+Notre_Dame
+Princeton
+Bucknell
+West_Virginia
+Florida_State
+Florida_Gulf_Coast
+Xavier
+Maryland
+St_Mary's
+VCU
+North_Dakota
+Arizona
+North_Carolina
+Texas_Southern
+Seton_Hall
+Arkansas
+Minnesota
+Middle_Tennessee_State
+Winthrop
+Butler
+UCLA
+Kent_State
+Kansas_State
+Cincinnati
+Dayton
+Wichita_State
+Northern_Kentucky
+Kentucky
+Kansas
+UC_Davis
+Michigan_State
+Miami_(FL)
+Iowa_State
+Nevada
+Vermont
+Purdue
+Oregon
+Iona
+Rhode_Island
+Creighton
+Michigan
+Oklahoma_State
+Jacksonville_State
+Louisville
+32
+Villanova 76-56
+Wisconsin 84-74
+Virginia 76-71
+Florida 80-65
+Baylor 91-73
+Southern_Cal 66-65
+South_Carolina 93-73
+Duke 87-65
+Gonzaga 66-46
+Northwestern 68-66
+Notre_Dame 60-58
+West_Virginia 86-80
+Florida_State 80-80
+Xavier 75-65
+St_Mary's 85-77
+Arizona 100-82
+North_Carolina 103-64
+Arkansas 77-71
+Middle_Tennessee_State 81-72
+Butler 75-64
+UCLA 97-80
+Cincinnati 75-61
+Wichita_State 64-58
+Kentucky 79-70
+Kansas 100-62
+Michigan_State 78-58
+Iowa_State 84-73
+Purdue 80-70
+Oregon 93-77
+Rhode_Island 84-72
+Michigan 92-91
+Louisville 78-63
+16
+Wisconsin 65-62
+Florida 65-39
+Baylor 82-78
+South_Carolina 88-81
+Gonzaga 79-73
+West_Virginia 83-71
+Xavier 91-66
+Arizona 69-60
+North_Carolina 72-65
+Butler 74-65
+UCLA 79-67
+Kentucky 65-62
+Kansas 90-70
+Purdue 80-76
+Oregon 75-72
+Michigan 73-69
+8
+Florida 84-83
+South_Carolina 70-50
+Gonzaga 61-58
+Xavier 73-71
+North_Carolina 92-80
+Kentucky 86-75
+Kansas 98-66
+Oregon 69-68
+4
+South_Carolina 77-70
+Gonzaga 83-59
+North_Carolina 75-73
+Oregon 74-60
+2
+Gonzaga 77-73
+North_Carolina 77-76
+1
+North_Carolina 71-65
